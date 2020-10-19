@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LinearLayout2</string>
+    <string name="program_studi_sistem_informasi">Program Studi Sistem Informasi</string>
+    <string name="fakultas_ilmu_komputer">Fakultas Ilmu Komputer</string>
+    <string name="upn_veteran_jawa_timur">UPN VeteranJawa Timur</string>
+    <string name="masuk_sebagai_mahasiswa">Masuk sebagai Mahasiswa</string>
+</resources>
